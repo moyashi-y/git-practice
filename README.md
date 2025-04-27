@@ -3,4 +3,4 @@
 ローカルリポジトリで変更してみます。
 
 conflict-branch
-GitHub上で更新します。
+conflict-remote上で更新(conflict発生)
